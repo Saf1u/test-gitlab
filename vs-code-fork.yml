@@ -1,2 +1,0 @@
-# renovate: datasource=gitlab-tags depName=gitlab-org/gitlab-web-ide-vscode-fork versioning=semver registryUrl=https://gitlab.com
-NKJS_VERSION:  "1.85.2-1.0.0-dev-20240306034440"
