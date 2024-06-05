@@ -1,0 +1,5 @@
+# renovate: datasource=gitlab-tags depName=gitlab-org/gitlab-web-ide-vscode-fork currentValue=1.85.2-1.0.0-dev-20240306034440 tagField=tag registryUrl=https://gitlab.com versioning=semver
+version1: 1.0.0
+repo: "https://gitlab.com/gitlab-org/gitlab-web-ide-vscode-fork"
+project_id: 37966217
+tag:  "1.85.2-1.0.0-dev-20240306034440"
